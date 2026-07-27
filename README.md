@@ -22,7 +22,7 @@ paper: (i) single-view blindness, (ii) two-view fusion that is static and post-c
 (iii) heterogeneous features forced through a single encoder.
 
 <p align="center">
-  <img src="assets/framework.png" alt="Overview of the proposed FMVM-JITDP framework" width="95%">
+  <img src="assets/Framework.jpg" alt="Overview of the proposed FMVM-JITDP framework" width="95%">
 </p>
 
 <p align="center">
