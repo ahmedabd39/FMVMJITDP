@@ -70,9 +70,7 @@ paper: (i) single-view blindness, (ii) two-view fusion that is static and post-c
 ## The Projects used in this work
 
 FMVM-JITDP is evaluated on the benchmark defect dataset of Yatish et al. (ICSE 2019), further
-examined by Wattanakriengkrai et al. (TSE 2020), using **one selected release from each of
-nine open-source projects**. For each labeled code-change instance, the lexical and AST views
-are built from the pre- and post-change states surrounding the corresponding commit.
+examined by Wattanakriengkrai et al. (TSE 2020).
 
 | Project (release)     | Domain                          | Retained | Defective rate (%) |
 |-----------------------|---------------------------------|---------:|-------------------:|
