@@ -54,18 +54,9 @@ paper: (i) single-view blindness, (ii) two-view fusion that is static and post-c
 
 ---
 
-## Repository Structure
-
-#Will be uploaded soon
 
 ---
 
-## Installation
-
-```bash
-# #Will be explained soon
-
----
 
 ## The Projects used in this work
 
